@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS 3D — AI-Powered Digital Twin & Predictive Intelligence Platform",
+  "description": "Enterprise-grade 3D Digital Twin, IoT Sensor Simulation, Computer Vision Analytics, and AI Predictive Maintenance Platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
